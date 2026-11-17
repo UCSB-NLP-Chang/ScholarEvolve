@@ -1,0 +1,181 @@
+{
+  "induced_from_episodes": 58,
+  "max_ngram": 3,
+  "method": "skill_as_pseudocode",
+  "min_support": 2,
+  "schema_version": "ripe.skills.sap.v1",
+  "skills": [
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 58 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_app_descriptions(...)`\n2. emit Python that calls `apis.api_docs.show_api_descriptions(...)`\naction template:\n- `apis.api_docs.show_app_descriptions(...)`\n- `apis.api_docs.show_api_descriptions(...)`",
+      "calls": [
+        "api_docs.show_app_descriptions",
+        "api_docs.show_api_descriptions"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_app_descriptions -> api_docs.show_api_descriptions",
+      "support": 58,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 58 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_api_descriptions(...)`\naction template:\n- `apis.api_docs.show_api_descriptions(...)`",
+      "calls": [
+        "api_docs.show_api_descriptions"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_api_descriptions",
+      "support": 58,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 58 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_api_doc(...)`\naction template:\n- `apis.api_docs.show_api_doc(...)`",
+      "calls": [
+        "api_docs.show_api_doc"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_api_doc",
+      "support": 58,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 58 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_app_descriptions(...)`\naction template:\n- `apis.api_docs.show_app_descriptions(...)`",
+      "calls": [
+        "api_docs.show_app_descriptions"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_app_descriptions",
+      "support": 58,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 58 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.supervisor.complete_task(...)`\naction template:\n- `apis.supervisor.complete_task(...)`",
+      "calls": [
+        "supervisor.complete_task"
+      ],
+      "form": "pseudocode",
+      "name": "sap::supervisor.complete_task",
+      "support": 58,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with all, spotify\n- confidence_signal: seen in 55 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.supervisor.show_account_passwords(...)`\naction template:\n- `apis.supervisor.show_account_passwords(...)`",
+      "calls": [
+        "supervisor.show_account_passwords"
+      ],
+      "form": "pseudocode",
+      "name": "sap::supervisor.show_account_passwords",
+      "support": 55,
+      "triggers": [
+        "all",
+        "spotify"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify\n- confidence_signal: seen in 53 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_api_descriptions(...)`\n2. emit Python that calls `apis.api_docs.show_api_doc(...)`\naction template:\n- `apis.api_docs.show_api_descriptions(...)`\n- `apis.api_docs.show_api_doc(...)`",
+      "calls": [
+        "api_docs.show_api_descriptions",
+        "api_docs.show_api_doc"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_api_descriptions -> api_docs.show_api_doc",
+      "support": 53,
+      "triggers": [
+        "spotify"
+      ]
+    },
+    {
+      "body": "typed contract:\n- input.task_instruction: str\n- input.current_observation: str\n- output.python_action: str\n- applies_when: task wording overlaps with spotify, all\n- confidence_signal: seen in 49 successful training episodes\nalgorithm:\n1. emit Python that calls `apis.api_docs.show_api_doc(...)`\n2. emit Python that calls `apis.api_docs.show_api_descriptions(...)`\naction template:\n- `apis.api_docs.show_api_doc(...)`\n- `apis.api_docs.show_api_descriptions(...)`",
+      "calls": [
+        "api_docs.show_api_doc",
+        "api_docs.show_api_descriptions"
+      ],
+      "form": "pseudocode",
+      "name": "sap::api_docs.show_api_doc -> api_docs.show_api_descriptions",
+      "support": 49,
+      "triggers": [
+        "spotify",
+        "all"
+      ]
+    }
+  ],
+  "source_split": "train",
+  "top_k": 8,
+  "frozen": true,
+  "built_by": "SkillAsPseudocode",
+  "slot": "skills",
+  "n_episodes": 58,
+  "task_ids": [
+    "07b42fd_1",
+    "07b42fd_2",
+    "07b42fd_3",
+    "229360a_2",
+    "229360a_3",
+    "27e1026_1",
+    "27e1026_2",
+    "27e1026_3",
+    "287e338_1",
+    "287e338_2",
+    "287e338_3",
+    "2a163ab_1",
+    "2a163ab_2",
+    "2a163ab_3",
+    "302c169_1",
+    "302c169_2",
+    "302c169_3",
+    "34d9492_1",
+    "34d9492_2",
+    "34d9492_3",
+    "60d0b5b_1",
+    "60d0b5b_2",
+    "6104387_2",
+    "692c77d_1",
+    "692c77d_2",
+    "76f2c72_1",
+    "76f2c72_2",
+    "76f2c72_3",
+    "771d8fc_1",
+    "771d8fc_3",
+    "7d7fbf6_1",
+    "7d7fbf6_2",
+    "7d7fbf6_3",
+    "82e2fac_2",
+    "82e2fac_3",
+    "aa8502b_1",
+    "aa8502b_3",
+    "afc0fce_1",
+    "afc0fce_3",
+    "b7a9ee9_1",
+    "b7a9ee9_2",
+    "b7a9ee9_3",
+    "c901732_1",
+    "c901732_3",
+    "ccb4494_2",
+    "ce359b5_1",
+    "cf6abd2_1",
+    "cf6abd2_2",
+    "cf6abd2_3",
+    "d0b1f43_1",
+    "d0b1f43_2",
+    "d0b1f43_3",
+    "e7a10f8_1",
+    "e7a10f8_2",
+    "e7a10f8_3",
+    "e85d92a_1",
+    "e85d92a_2",
+    "e85d92a_3"
+  ]
+}

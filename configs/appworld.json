@@ -1,0 +1,41 @@
+{
+  "environment": {
+    "name": "appworld",
+    "root": "$APPWORLD_ROOT",
+    "python": "$APPWORLD_PYTHON",
+    "max_steps": 100,
+    "workers": 8
+  },
+  "backbone": {
+    "model": "Qwen/Qwen3.5-27B",
+    "base_url": "http://localhost:8000/v1",
+    "api_key_env": "BACKBONE_API_KEY",
+    "model_args": {"max_completion_tokens": 65536},
+    "temperature": 0.0
+  },
+  "research_model": {
+    "model": "gpt-5.4",
+    "base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "reasoning_effort": "medium"
+  },
+  "coding_agent": {
+    "backend": "codex",
+    "model": "gpt-5.4",
+    "base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "reasoning_effort": "medium",
+    "check_budget": 12
+  },
+  "search": {
+    "papers_per_module": 4,
+    "devo_trials": 1,
+    "val_trials": 3,
+    "crossover_budget": 4,
+    "confidence": 0.9,
+    "stop_after": 1,
+    "max_generations": 5,
+    "arm_concurrency": 1,
+    "context_limit_tokens": 262144
+  }
+}

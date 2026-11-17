@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scholarevolve"
+version = "0.1.0"
+description = "Literature-guided module mutation and crossover for LLM agent harnesses"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["beautifulsoup4>=4.12"]
+
+[project.optional-dependencies]
+pdf = ["pypdf>=4.0"]
+
+[project.scripts]
+scholarevolve = "scholarevolve.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["scholarevolve*"]
+
+[tool.setuptools.package-data]
+"scholarevolve.envs.appworld" = ["prompt.txt"]

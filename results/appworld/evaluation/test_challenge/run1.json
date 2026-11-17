@@ -1,0 +1,1259 @@
+{
+  "aggregate": {
+    "task_goal_completion": 63.3,
+    "scenario_goal_completion": 44.6
+  },
+  "task_outcomes": {
+    "5238afc_1": {
+      "success": false
+    },
+    "5238afc_2": {
+      "success": false
+    },
+    "5238afc_3": {
+      "success": true
+    },
+    "0d22252_1": {
+      "success": false
+    },
+    "0d22252_2": {
+      "success": false
+    },
+    "0d22252_3": {
+      "success": false
+    },
+    "9bf2c8a_1": {
+      "success": true
+    },
+    "9bf2c8a_2": {
+      "success": true
+    },
+    "9bf2c8a_3": {
+      "success": true
+    },
+    "b3bdcc1_1": {
+      "success": false
+    },
+    "b3bdcc1_2": {
+      "success": true
+    },
+    "b3bdcc1_3": {
+      "success": true
+    },
+    "6474048_1": {
+      "success": false
+    },
+    "6474048_2": {
+      "success": false
+    },
+    "6474048_3": {
+      "success": false
+    },
+    "9871968_1": {
+      "success": false
+    },
+    "9871968_2": {
+      "success": false
+    },
+    "9871968_3": {
+      "success": false
+    },
+    "07bb666_1": {
+      "success": true
+    },
+    "07bb666_2": {
+      "success": false
+    },
+    "07bb666_3": {
+      "success": false
+    },
+    "383a053_1": {
+      "success": false
+    },
+    "383a053_2": {
+      "success": true
+    },
+    "383a053_3": {
+      "success": true
+    },
+    "7b97e6d_1": {
+      "success": false
+    },
+    "7b97e6d_2": {
+      "success": false
+    },
+    "7b97e6d_3": {
+      "success": false
+    },
+    "9aae7da_1": {
+      "success": true
+    },
+    "9aae7da_2": {
+      "success": true
+    },
+    "9aae7da_3": {
+      "success": true
+    },
+    "23d431c_1": {
+      "success": true
+    },
+    "23d431c_2": {
+      "success": false
+    },
+    "23d431c_3": {
+      "success": false
+    },
+    "690d51b_1": {
+      "success": true
+    },
+    "690d51b_2": {
+      "success": false
+    },
+    "690d51b_3": {
+      "success": true
+    },
+    "d9987f6_1": {
+      "success": false
+    },
+    "d9987f6_2": {
+      "success": false
+    },
+    "d9987f6_3": {
+      "success": false
+    },
+    "b0934aa_1": {
+      "success": false
+    },
+    "b0934aa_2": {
+      "success": false
+    },
+    "b0934aa_3": {
+      "success": false
+    },
+    "245cb43_1": {
+      "success": false
+    },
+    "245cb43_2": {
+      "success": true
+    },
+    "245cb43_3": {
+      "success": false
+    },
+    "a8f302f_1": {
+      "success": true
+    },
+    "a8f302f_2": {
+      "success": true
+    },
+    "a8f302f_3": {
+      "success": true
+    },
+    "1c4bd27_1": {
+      "success": true
+    },
+    "1c4bd27_2": {
+      "success": true
+    },
+    "1c4bd27_3": {
+      "success": true
+    },
+    "3650990_1": {
+      "success": true
+    },
+    "3650990_2": {
+      "success": true
+    },
+    "3650990_3": {
+      "success": false
+    },
+    "258796c_1": {
+      "success": true
+    },
+    "258796c_2": {
+      "success": true
+    },
+    "258796c_3": {
+      "success": true
+    },
+    "4815c06_1": {
+      "success": false
+    },
+    "4815c06_2": {
+      "success": false
+    },
+    "4815c06_3": {
+      "success": false
+    },
+    "4242c97_1": {
+      "success": true
+    },
+    "4242c97_2": {
+      "success": true
+    },
+    "4242c97_3": {
+      "success": false
+    },
+    "ec437da_1": {
+      "success": true
+    },
+    "ec437da_2": {
+      "success": true
+    },
+    "ec437da_3": {
+      "success": false
+    },
+    "77bcb81_1": {
+      "success": true
+    },
+    "77bcb81_2": {
+      "success": true
+    },
+    "77bcb81_3": {
+      "success": true
+    },
+    "81be677_1": {
+      "success": true
+    },
+    "81be677_2": {
+      "success": true
+    },
+    "81be677_3": {
+      "success": true
+    },
+    "7434096_1": {
+      "success": true
+    },
+    "7434096_2": {
+      "success": false
+    },
+    "7434096_3": {
+      "success": true
+    },
+    "6588a51_1": {
+      "success": true
+    },
+    "6588a51_2": {
+      "success": true
+    },
+    "6588a51_3": {
+      "success": true
+    },
+    "7d26579_1": {
+      "success": true
+    },
+    "7d26579_2": {
+      "success": true
+    },
+    "7d26579_3": {
+      "success": true
+    },
+    "cdf61bd_1": {
+      "success": true
+    },
+    "cdf61bd_2": {
+      "success": true
+    },
+    "cdf61bd_3": {
+      "success": true
+    },
+    "9b2dc64_1": {
+      "success": false
+    },
+    "9b2dc64_2": {
+      "success": false
+    },
+    "9b2dc64_3": {
+      "success": true
+    },
+    "953b296_1": {
+      "success": false
+    },
+    "953b296_2": {
+      "success": false
+    },
+    "953b296_3": {
+      "success": false
+    },
+    "eb5ad85_1": {
+      "success": true
+    },
+    "eb5ad85_2": {
+      "success": true
+    },
+    "eb5ad85_3": {
+      "success": true
+    },
+    "f6936d4_1": {
+      "success": false
+    },
+    "f6936d4_2": {
+      "success": false
+    },
+    "f6936d4_3": {
+      "success": false
+    },
+    "f99d726_1": {
+      "success": true
+    },
+    "f99d726_2": {
+      "success": true
+    },
+    "f99d726_3": {
+      "success": false
+    },
+    "1b2bae9_1": {
+      "success": true
+    },
+    "1b2bae9_2": {
+      "success": true
+    },
+    "1b2bae9_3": {
+      "success": false
+    },
+    "b05f69a_1": {
+      "success": false
+    },
+    "b05f69a_2": {
+      "success": false
+    },
+    "b05f69a_3": {
+      "success": false
+    },
+    "f6be291_1": {
+      "success": true
+    },
+    "f6be291_2": {
+      "success": true
+    },
+    "f6be291_3": {
+      "success": false
+    },
+    "432dc7a_1": {
+      "success": true
+    },
+    "432dc7a_2": {
+      "success": false
+    },
+    "432dc7a_3": {
+      "success": true
+    },
+    "efc3cea_1": {
+      "success": false
+    },
+    "efc3cea_2": {
+      "success": true
+    },
+    "efc3cea_3": {
+      "success": false
+    },
+    "ec655df_1": {
+      "success": true
+    },
+    "ec655df_2": {
+      "success": true
+    },
+    "ec655df_3": {
+      "success": true
+    },
+    "fdc4b74_1": {
+      "success": true
+    },
+    "fdc4b74_2": {
+      "success": true
+    },
+    "fdc4b74_3": {
+      "success": true
+    },
+    "d6d8cb6_1": {
+      "success": false
+    },
+    "d6d8cb6_2": {
+      "success": true
+    },
+    "d6d8cb6_3": {
+      "success": true
+    },
+    "1a79e37_1": {
+      "success": false
+    },
+    "1a79e37_2": {
+      "success": false
+    },
+    "1a79e37_3": {
+      "success": false
+    },
+    "f3a6713_1": {
+      "success": false
+    },
+    "f3a6713_2": {
+      "success": false
+    },
+    "f3a6713_3": {
+      "success": false
+    },
+    "a5b0084_1": {
+      "success": true
+    },
+    "a5b0084_2": {
+      "success": true
+    },
+    "a5b0084_3": {
+      "success": true
+    },
+    "f86d850_1": {
+      "success": false
+    },
+    "f86d850_2": {
+      "success": false
+    },
+    "f86d850_3": {
+      "success": false
+    },
+    "aaa25aa_1": {
+      "success": false
+    },
+    "aaa25aa_2": {
+      "success": true
+    },
+    "aaa25aa_3": {
+      "success": true
+    },
+    "cb4ee7a_1": {
+      "success": true
+    },
+    "cb4ee7a_2": {
+      "success": true
+    },
+    "cb4ee7a_3": {
+      "success": true
+    },
+    "e201314_1": {
+      "success": false
+    },
+    "e201314_2": {
+      "success": true
+    },
+    "e201314_3": {
+      "success": true
+    },
+    "20c1328_1": {
+      "success": false
+    },
+    "20c1328_2": {
+      "success": true
+    },
+    "20c1328_3": {
+      "success": true
+    },
+    "dbc0276_1": {
+      "success": true
+    },
+    "dbc0276_2": {
+      "success": true
+    },
+    "dbc0276_3": {
+      "success": true
+    },
+    "e7f15ba_1": {
+      "success": false
+    },
+    "e7f15ba_2": {
+      "success": true
+    },
+    "e7f15ba_3": {
+      "success": true
+    },
+    "b6d1f70_1": {
+      "success": true
+    },
+    "b6d1f70_2": {
+      "success": false
+    },
+    "b6d1f70_3": {
+      "success": false
+    },
+    "dc5c5c6_1": {
+      "success": false
+    },
+    "dc5c5c6_2": {
+      "success": false
+    },
+    "dc5c5c6_3": {
+      "success": false
+    },
+    "16be9ce_1": {
+      "success": true
+    },
+    "16be9ce_2": {
+      "success": true
+    },
+    "16be9ce_3": {
+      "success": true
+    },
+    "59bcfc8_1": {
+      "success": false
+    },
+    "59bcfc8_2": {
+      "success": true
+    },
+    "59bcfc8_3": {
+      "success": false
+    },
+    "7e1be84_1": {
+      "success": false
+    },
+    "7e1be84_2": {
+      "success": false
+    },
+    "7e1be84_3": {
+      "success": true
+    },
+    "30e8586_1": {
+      "success": false
+    },
+    "30e8586_2": {
+      "success": false
+    },
+    "30e8586_3": {
+      "success": false
+    },
+    "c9458ed_1": {
+      "success": false
+    },
+    "c9458ed_2": {
+      "success": false
+    },
+    "c9458ed_3": {
+      "success": false
+    },
+    "b08d5ef_1": {
+      "success": false
+    },
+    "b08d5ef_2": {
+      "success": false
+    },
+    "b08d5ef_3": {
+      "success": false
+    },
+    "92fe421_1": {
+      "success": false
+    },
+    "92fe421_2": {
+      "success": true
+    },
+    "92fe421_3": {
+      "success": false
+    },
+    "2e9b91e_1": {
+      "success": true
+    },
+    "2e9b91e_2": {
+      "success": true
+    },
+    "2e9b91e_3": {
+      "success": true
+    },
+    "fa327a6_1": {
+      "success": true
+    },
+    "fa327a6_2": {
+      "success": true
+    },
+    "fa327a6_3": {
+      "success": true
+    },
+    "d037dc8_1": {
+      "success": true
+    },
+    "d037dc8_2": {
+      "success": true
+    },
+    "d037dc8_3": {
+      "success": true
+    },
+    "c8f5f44_1": {
+      "success": true
+    },
+    "c8f5f44_2": {
+      "success": true
+    },
+    "c8f5f44_3": {
+      "success": true
+    },
+    "9ef034e_1": {
+      "success": false
+    },
+    "9ef034e_2": {
+      "success": true
+    },
+    "9ef034e_3": {
+      "success": false
+    },
+    "5800354_1": {
+      "success": true
+    },
+    "5800354_2": {
+      "success": false
+    },
+    "5800354_3": {
+      "success": true
+    },
+    "66b7899_1": {
+      "success": true
+    },
+    "66b7899_2": {
+      "success": true
+    },
+    "66b7899_3": {
+      "success": true
+    },
+    "099174d_1": {
+      "success": true
+    },
+    "099174d_2": {
+      "success": true
+    },
+    "099174d_3": {
+      "success": false
+    },
+    "b4707e8_1": {
+      "success": true
+    },
+    "b4707e8_2": {
+      "success": true
+    },
+    "b4707e8_3": {
+      "success": true
+    },
+    "cdaaea5_1": {
+      "success": false
+    },
+    "cdaaea5_2": {
+      "success": true
+    },
+    "cdaaea5_3": {
+      "success": false
+    },
+    "f099b4c_1": {
+      "success": true
+    },
+    "f099b4c_2": {
+      "success": true
+    },
+    "f099b4c_3": {
+      "success": true
+    },
+    "dcb2559_1": {
+      "success": true
+    },
+    "dcb2559_2": {
+      "success": true
+    },
+    "dcb2559_3": {
+      "success": true
+    },
+    "365e0a3_1": {
+      "success": true
+    },
+    "365e0a3_2": {
+      "success": true
+    },
+    "365e0a3_3": {
+      "success": true
+    },
+    "476b213_1": {
+      "success": true
+    },
+    "476b213_2": {
+      "success": true
+    },
+    "476b213_3": {
+      "success": false
+    },
+    "ba46d91_1": {
+      "success": true
+    },
+    "ba46d91_2": {
+      "success": false
+    },
+    "ba46d91_3": {
+      "success": true
+    },
+    "3f3c139_1": {
+      "success": false
+    },
+    "3f3c139_2": {
+      "success": false
+    },
+    "3f3c139_3": {
+      "success": false
+    },
+    "6d59d90_1": {
+      "success": false
+    },
+    "6d59d90_2": {
+      "success": true
+    },
+    "6d59d90_3": {
+      "success": true
+    },
+    "d8e490b_1": {
+      "success": false
+    },
+    "d8e490b_2": {
+      "success": true
+    },
+    "d8e490b_3": {
+      "success": true
+    },
+    "998908e_1": {
+      "success": true
+    },
+    "998908e_2": {
+      "success": true
+    },
+    "998908e_3": {
+      "success": true
+    },
+    "dcbd34b_1": {
+      "success": true
+    },
+    "dcbd34b_2": {
+      "success": true
+    },
+    "dcbd34b_3": {
+      "success": true
+    },
+    "7bdaf23_1": {
+      "success": true
+    },
+    "7bdaf23_2": {
+      "success": false
+    },
+    "7bdaf23_3": {
+      "success": true
+    },
+    "a97e35d_1": {
+      "success": false
+    },
+    "a97e35d_2": {
+      "success": true
+    },
+    "a97e35d_3": {
+      "success": false
+    },
+    "33e202d_1": {
+      "success": true
+    },
+    "33e202d_2": {
+      "success": true
+    },
+    "33e202d_3": {
+      "success": true
+    },
+    "a53a8fd_1": {
+      "success": true
+    },
+    "a53a8fd_2": {
+      "success": true
+    },
+    "a53a8fd_3": {
+      "success": true
+    },
+    "906f2c7_1": {
+      "success": true
+    },
+    "906f2c7_2": {
+      "success": true
+    },
+    "906f2c7_3": {
+      "success": true
+    },
+    "a3ba388_1": {
+      "success": true
+    },
+    "a3ba388_2": {
+      "success": true
+    },
+    "a3ba388_3": {
+      "success": true
+    },
+    "b68eb83_1": {
+      "success": true
+    },
+    "b68eb83_2": {
+      "success": true
+    },
+    "b68eb83_3": {
+      "success": true
+    },
+    "f6f2e67_1": {
+      "success": true
+    },
+    "f6f2e67_2": {
+      "success": false
+    },
+    "f6f2e67_3": {
+      "success": true
+    },
+    "36705ae_1": {
+      "success": false
+    },
+    "36705ae_2": {
+      "success": true
+    },
+    "36705ae_3": {
+      "success": true
+    },
+    "bcb9696_1": {
+      "success": true
+    },
+    "bcb9696_2": {
+      "success": true
+    },
+    "bcb9696_3": {
+      "success": true
+    },
+    "98d2608_1": {
+      "success": true
+    },
+    "98d2608_2": {
+      "success": true
+    },
+    "98d2608_3": {
+      "success": true
+    },
+    "baeb104_1": {
+      "success": true
+    },
+    "baeb104_2": {
+      "success": true
+    },
+    "baeb104_3": {
+      "success": true
+    },
+    "e70b117_1": {
+      "success": false
+    },
+    "e70b117_2": {
+      "success": true
+    },
+    "e70b117_3": {
+      "success": true
+    },
+    "4ac4a8d_1": {
+      "success": false
+    },
+    "4ac4a8d_2": {
+      "success": false
+    },
+    "4ac4a8d_3": {
+      "success": false
+    },
+    "8f79e35_1": {
+      "success": true
+    },
+    "8f79e35_2": {
+      "success": true
+    },
+    "8f79e35_3": {
+      "success": true
+    },
+    "ffea2b5_1": {
+      "success": true
+    },
+    "ffea2b5_2": {
+      "success": true
+    },
+    "ffea2b5_3": {
+      "success": true
+    },
+    "3fcc458_1": {
+      "success": true
+    },
+    "3fcc458_2": {
+      "success": true
+    },
+    "3fcc458_3": {
+      "success": true
+    },
+    "a1d3dfd_1": {
+      "success": true
+    },
+    "a1d3dfd_2": {
+      "success": true
+    },
+    "a1d3dfd_3": {
+      "success": false
+    },
+    "82d2e01_1": {
+      "success": true
+    },
+    "82d2e01_2": {
+      "success": true
+    },
+    "82d2e01_3": {
+      "success": true
+    },
+    "a7179fa_1": {
+      "success": true
+    },
+    "a7179fa_2": {
+      "success": true
+    },
+    "a7179fa_3": {
+      "success": true
+    },
+    "80acbaf_1": {
+      "success": false
+    },
+    "80acbaf_2": {
+      "success": false
+    },
+    "80acbaf_3": {
+      "success": false
+    },
+    "e0fe09c_1": {
+      "success": false
+    },
+    "e0fe09c_2": {
+      "success": true
+    },
+    "e0fe09c_3": {
+      "success": false
+    },
+    "7264edc_1": {
+      "success": true
+    },
+    "7264edc_2": {
+      "success": false
+    },
+    "7264edc_3": {
+      "success": true
+    },
+    "f691597_1": {
+      "success": true
+    },
+    "f691597_2": {
+      "success": true
+    },
+    "f691597_3": {
+      "success": true
+    },
+    "a132254_1": {
+      "success": true
+    },
+    "a132254_2": {
+      "success": true
+    },
+    "a132254_3": {
+      "success": true
+    },
+    "09ac073_1": {
+      "success": true
+    },
+    "09ac073_2": {
+      "success": true
+    },
+    "09ac073_3": {
+      "success": true
+    },
+    "6a5e690_1": {
+      "success": true
+    },
+    "6a5e690_2": {
+      "success": true
+    },
+    "6a5e690_3": {
+      "success": true
+    },
+    "e52623a_1": {
+      "success": false
+    },
+    "e52623a_2": {
+      "success": false
+    },
+    "e52623a_3": {
+      "success": false
+    },
+    "5e27cd7_1": {
+      "success": true
+    },
+    "5e27cd7_2": {
+      "success": true
+    },
+    "5e27cd7_3": {
+      "success": true
+    },
+    "277d81d_1": {
+      "success": true
+    },
+    "277d81d_2": {
+      "success": true
+    },
+    "277d81d_3": {
+      "success": true
+    },
+    "ce73d68_1": {
+      "success": false
+    },
+    "ce73d68_2": {
+      "success": false
+    },
+    "ce73d68_3": {
+      "success": false
+    },
+    "d37c235_1": {
+      "success": false
+    },
+    "d37c235_2": {
+      "success": false
+    },
+    "d37c235_3": {
+      "success": false
+    },
+    "4d12842_1": {
+      "success": true
+    },
+    "4d12842_2": {
+      "success": true
+    },
+    "4d12842_3": {
+      "success": true
+    },
+    "69ba40f_1": {
+      "success": true
+    },
+    "69ba40f_2": {
+      "success": true
+    },
+    "69ba40f_3": {
+      "success": true
+    },
+    "af84964_1": {
+      "success": false
+    },
+    "af84964_2": {
+      "success": false
+    },
+    "af84964_3": {
+      "success": false
+    },
+    "e775c78_1": {
+      "success": true
+    },
+    "e775c78_2": {
+      "success": true
+    },
+    "e775c78_3": {
+      "success": true
+    },
+    "2ff4dfb_1": {
+      "success": true
+    },
+    "2ff4dfb_2": {
+      "success": true
+    },
+    "2ff4dfb_3": {
+      "success": true
+    },
+    "fddb6b6_1": {
+      "success": false
+    },
+    "fddb6b6_2": {
+      "success": false
+    },
+    "fddb6b6_3": {
+      "success": false
+    },
+    "c1091c7_1": {
+      "success": false
+    },
+    "c1091c7_2": {
+      "success": false
+    },
+    "c1091c7_3": {
+      "success": true
+    },
+    "321ec38_1": {
+      "success": false
+    },
+    "321ec38_2": {
+      "success": false
+    },
+    "321ec38_3": {
+      "success": false
+    },
+    "0de03ad_1": {
+      "success": false
+    },
+    "0de03ad_2": {
+      "success": false
+    },
+    "0de03ad_3": {
+      "success": true
+    },
+    "ac62177_1": {
+      "success": false
+    },
+    "ac62177_2": {
+      "success": false
+    },
+    "ac62177_3": {
+      "success": true
+    },
+    "4441ee9_1": {
+      "success": true
+    },
+    "4441ee9_2": {
+      "success": true
+    },
+    "4441ee9_3": {
+      "success": true
+    },
+    "96bf160_1": {
+      "success": true
+    },
+    "96bf160_2": {
+      "success": true
+    },
+    "96bf160_3": {
+      "success": true
+    },
+    "adb1060_1": {
+      "success": true
+    },
+    "adb1060_2": {
+      "success": true
+    },
+    "adb1060_3": {
+      "success": true
+    },
+    "9126bf0_1": {
+      "success": true
+    },
+    "9126bf0_2": {
+      "success": true
+    },
+    "9126bf0_3": {
+      "success": true
+    },
+    "f37e804_1": {
+      "success": true
+    },
+    "f37e804_2": {
+      "success": true
+    },
+    "f37e804_3": {
+      "success": true
+    },
+    "18670a5_1": {
+      "success": true
+    },
+    "18670a5_2": {
+      "success": false
+    },
+    "18670a5_3": {
+      "success": true
+    },
+    "143527e_1": {
+      "success": false
+    },
+    "143527e_2": {
+      "success": false
+    },
+    "143527e_3": {
+      "success": false
+    },
+    "1b988ac_1": {
+      "success": true
+    },
+    "1b988ac_2": {
+      "success": true
+    },
+    "1b988ac_3": {
+      "success": true
+    },
+    "9a16324_1": {
+      "success": true
+    },
+    "9a16324_2": {
+      "success": true
+    },
+    "9a16324_3": {
+      "success": true
+    },
+    "b71318e_1": {
+      "success": true
+    },
+    "b71318e_2": {
+      "success": true
+    },
+    "b71318e_3": {
+      "success": true
+    },
+    "a676f2a_1": {
+      "success": true
+    },
+    "a676f2a_2": {
+      "success": true
+    },
+    "a676f2a_3": {
+      "success": true
+    },
+    "7238049_1": {
+      "success": true
+    },
+    "7238049_2": {
+      "success": true
+    },
+    "7238049_3": {
+      "success": true
+    },
+    "8a13317_1": {
+      "success": true
+    },
+    "8a13317_2": {
+      "success": true
+    },
+    "8a13317_3": {
+      "success": true
+    },
+    "7574325_1": {
+      "success": true
+    },
+    "7574325_2": {
+      "success": false
+    },
+    "7574325_3": {
+      "success": true
+    },
+    "fb05fed_1": {
+      "success": true
+    },
+    "fb05fed_2": {
+      "success": false
+    },
+    "fb05fed_3": {
+      "success": false
+    },
+    "8d42650_1": {
+      "success": false
+    },
+    "8d42650_2": {
+      "success": false
+    },
+    "8d42650_3": {
+      "success": false
+    },
+    "988af8e_1": {
+      "success": false
+    },
+    "988af8e_2": {
+      "success": false
+    },
+    "988af8e_3": {
+      "success": false
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "benchmark": "tau2-bench Telecom",
+  "modules": {
+    "tool_interface": {
+      "implementation": "modules/tool_interface/tool-p2.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "TinyAgent: Function Calling at the Edge",
+        "url": "https://arxiv.org/abs/2409.00608v3",
+        "topic": "Deliberate Action Selection"
+      }
+    },
+    "context_management": {
+      "implementation": "modules/context_management/cont-p1.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "Improving Factuality with Explicit Working Memory",
+        "url": "https://arxiv.org/abs/2412.18069v3",
+        "topic": "Structured State Summaries"
+      }
+    },
+    "skills": {
+      "implementation": "modules/skills/skil-p2.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "REPOT: Recoverable Program-of-Thought via Checkpoint Repair",
+        "url": "https://arxiv.org/abs/2605.30052v1",
+        "topic": "Runtime Assurance"
+      }
+    },
+    "memories": {
+      "implementation": "modules/memories/memo-p2.py",
+      "artifact": "artifacts/memo-p2/memories.json",
+      "source_paper": {
+        "title": "Episodic Memory in Lifelong Language Learning",
+        "url": "https://arxiv.org/abs/1906.01076v3",
+        "topic": "Memory Control Policies"
+      }
+    },
+    "agentic_workflows": {
+      "implementation": "modules/agentic_workflows/agen-p3.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "Matrix as Plan: Structured Logical Reasoning with Feedback-Driven Replanning",
+        "url": "https://arxiv.org/abs/2601.10101v2",
+        "topic": "Structured Plans"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "environment": {
+    "name": "tau2",
+    "root": "$TAU2_ROOT",
+    "python": "$TAU2_PYTHON",
+    "domain": "telecom",
+    "user_model": "gpt-5.2",
+    "user_model_args": {"reasoning_effort": "high"},
+    "max_steps": 200,
+    "max_errors": 10,
+    "seed": 300,
+    "num_trials": 4,
+    "devo_num_trials": 1,
+    "max_concurrency": 8,
+    "devo_pool": {
+      "seed": 2026,
+      "counts": {"service_issue": 18, "mobile_data_issue": 60, "mms_issue": 172}
+    }
+  },
+  "backbone": {
+    "model": "openai/Qwen/Qwen3.5-27B",
+    "model_args": {
+      "api_base": "http://localhost:8000/v1",
+      "max_completion_tokens": 65536,
+      "temperature": 0.0
+    }
+  },
+  "research_model": {
+    "model": "gpt-5.4",
+    "base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "reasoning_effort": "medium"
+  },
+  "coding_agent": {
+    "backend": "codex",
+    "model": "gpt-5.4",
+    "base_url": "https://api.openai.com/v1",
+    "api_key_env": "OPENAI_API_KEY",
+    "reasoning_effort": "medium",
+    "check_budget": 12
+  },
+  "search": {
+    "papers_per_module": 3,
+    "devo_trials": 1,
+    "val_trials": 1,
+    "crossover_budget": 4,
+    "confidence": 0.9,
+    "stop_after": 1,
+    "max_generations": 5,
+    "arm_concurrency": 1,
+    "context_limit_tokens": 262144
+  }
+}

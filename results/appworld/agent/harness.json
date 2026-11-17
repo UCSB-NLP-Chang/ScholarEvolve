@@ -1,0 +1,50 @@
+{
+  "benchmark": "AppWorld",
+  "modules": {
+    "tool_interface": {
+      "implementation": "modules/tool_interface/tool-p3.py",
+      "artifact": "artifacts/tool-p3/tool_interface.json",
+      "source_paper": {
+        "title": "ToolACE-R: Model-aware Iterative Training and Adaptive Refinement for Tool Learning",
+        "url": "https://arxiv.org/abs/2504.01400v3",
+        "topic": "Structured API Actions"
+      }
+    },
+    "context_management": {
+      "implementation": "modules/context_management/cont-p3.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "Fundamental Limits of Prompt Compression: A Rate-Distortion Framework for Black-Box Language Models",
+        "url": "https://arxiv.org/abs/2407.15504v2",
+        "topic": "Budget and Scope Routing"
+      }
+    },
+    "skills": {
+      "implementation": "modules/skills/skil-p4.py",
+      "artifact": "artifacts/skil-p4/skills.json",
+      "source_paper": {
+        "title": "Skill-as-Pseudocode: Refactoring Skill Libraries to Pseudocode for LLM Agents",
+        "url": "https://arxiv.org/abs/2605.27955v1",
+        "topic": "Skill Compilation"
+      }
+    },
+    "memories": {
+      "implementation": "modules/memories/memo-p1.py",
+      "artifact": "artifacts/memo-p1/memories.json",
+      "source_paper": {
+        "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+        "url": "https://arxiv.org/abs/2607.13157v1",
+        "topic": "Structured Memory Architecture"
+      }
+    },
+    "agentic_workflows": {
+      "implementation": "modules/agentic_workflows/agen-p4.py",
+      "artifact": null,
+      "source_paper": {
+        "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
+        "url": "https://arxiv.org/abs/2605.10344v2",
+        "topic": "Multi-Agent Deliberation"
+      }
+    }
+  }
+}
